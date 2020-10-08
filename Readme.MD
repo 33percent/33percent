@@ -16,7 +16,7 @@
 ## Some Statistics About Me
 ![Sandeep's github stats](https://github-readme-stats.vercel.app/api?username=33percent&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
-<img align="left" alt="Github Language" src="https://github-readme-stats.33percent.vercel.app/api/top-langs/?username=33percent&layout=compact&theme=chartreuse-dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33percent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ⭐️ From [33percent](https://github.com/33percent)
