@@ -20,9 +20,9 @@ Checkout my github page here [Sandeep][my_blog]
 </p>
 
 
-<h3>Areas of Expertise</h3>:
+<h2>Areas of Expertise:</h2>
 
-Deployment:
+<h3>Deployment:</h3>
 <br />
 <br />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"/>
@@ -31,20 +31,20 @@ Deployment:
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <br />
 <br />
-OS:
+<h3>OS:</h3>
 <br />
 <br />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>
 <br />
 <br />
-Cloud Provider:
+<h3>Cloud Provider:</h3>
 <br />
 <br />
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 <br />
-Databases:
+<h3>Databases:</h3>
 <br />
 <br />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
@@ -54,7 +54,7 @@ Databases:
 
 <br />
 <br />
-Languages and Framework:
+<h3>Languages and Framework:</h3>
 <br />
 <br />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
