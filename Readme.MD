@@ -23,8 +23,6 @@ Checkout my github page here [Sandeep][my_blog]
 <h2>Areas of Expertise:</h2>
 
 <h3>Deployment:</h3>
-<br />
-<br />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"/>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"/>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"/>
@@ -32,15 +30,11 @@ Checkout my github page here [Sandeep][my_blog]
 <br />
 <br />
 <h3>OS:</h3>
-<br />
-<br />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>
 <br />
 <br />
 <h3>Cloud Provider:</h3>
-<br />
-<br />
 <img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 <br />
