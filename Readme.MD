@@ -1,14 +1,16 @@
 ### Hi, I'm Sandeep 👋
 
-Currently pursuing as Product Engineer at [Acviss - Bengaluru][acviss]
+Currently pursuing as Devops @Oracle.
 
 Checkout my github page here [Sandeep][my_blog]
 
 ## Specs:
-
-- I do active development in Django and NodeJS.
-- I have database exposures to MySQL, PostgresSQL, MongoDB, Elasticsearch and Redis.
-- All of my cloud practices in AWS.
+- Administration and deployments in Kubernetes
+- Gitops Framework
+- Infra Development using Ansible and Terraform.
+- I do active development in Django and NodeJS, Flask Restx.
+- I have database exposures to MySQL, PostgresSQL, MongoDB, Elasticsearch, OracleDB and Redis.
+- All of my cloud practices in AWS, Oracle Cloud Infrastructure.
 
 ## Connect with me:
 
