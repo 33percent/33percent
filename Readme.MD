@@ -32,8 +32,6 @@ Checkout my github page here [Sandeep][my_blog]
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=33percent"/>
-<br />
-<br />
 
 Tools:
 
