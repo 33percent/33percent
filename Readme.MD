@@ -20,7 +20,7 @@ Checkout my github page here [Sandeep][my_blog]
 </p>
 
 
-Areas of Experties:
+<h3>Areas of Expertise</h3>:
 
 Deployment:
 <br />
