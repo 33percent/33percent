@@ -1,6 +1,6 @@
 ### Hi, I'm Sandeep 👋
 
-Currently pursuing as Devops @Oracle.
+Currently pursuing as Devops @Oracle (Product - Siebel).
 
 Checkout my github page here [Sandeep][my_blog]
 
