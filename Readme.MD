@@ -12,10 +12,12 @@ Checkout my github page here [Sandeep][my_blog]
 - I have database exposures to MySQL, PostgresSQL, MongoDB, Elasticsearch, OracleDB and Redis.
 - All of my cloud practices in AWS, Oracle Cloud Infrastructure.
 
-## Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=33percent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33percent&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</p>
 
 
 Areas of Experties:
@@ -63,17 +65,14 @@ Languages and Framework:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=33percent"/>
 
 
 <br />
 <br />
+## Connect with me:
 
-<p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=33percent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33percent&count_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</p>
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
 
 [linkedin]: https://www.linkedin.com/in/sandeep-kumar-sateesh
