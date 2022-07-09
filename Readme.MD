@@ -70,6 +70,11 @@ Languages and Framework:
 <br />
 <br />
 
+<p align="center">
+  <img width="45%" height="300" src="github.gif" alt="Github Swag" />
+  <img width="45%" height="300" src="repo.gif" alt="Visualization of commits" />
+</p>
+
 
 [linkedin]: https://www.linkedin.com/in/sandeep-kumar-sateesh
 [my_blog]: https://33percent.github.io/
